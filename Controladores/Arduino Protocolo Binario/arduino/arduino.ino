@@ -1,6 +1,6 @@
 const int inputPin = 2;
-char a = 0x3D;
-char b = 0x3F;
+char a = 0x31;
+char b = 0x30;
 int value = 0;
 bool cambia  = false;
 int valueAnt = 0;
