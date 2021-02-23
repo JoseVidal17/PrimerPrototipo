@@ -1,22 +1,3 @@
-'''
-Matthew Ragan | matthewragan.com
-'''
-
-
-class Template:
-	'''
-		This is a sample class.
-
-		This sample class has several important features that can be described here.
-
-
-		Notes
-		---------------
-		Your notes about the class go here
- 	'''
-
-	def __init__(self, myOp):
-		pass
-	
-	def My_fav_method(self, arg1):
-		pass
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd48fee0b7c022face932af855c2928f98f3a7029b7ced7eaf205e7e776a657
+size 317

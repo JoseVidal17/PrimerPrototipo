@@ -1,25 +1,3 @@
-# me - this DAT
-# par - the Par object that has changed
-# val - the current value
-# prev - the previous value
-# 
-# Make sure the corresponding toggle is enabled in the Parameter Execute DAT.
-
-def onValueChange(par, prev):
-	return
-
-def onPulse(par):
-	return
-
-def onExpressionChange(par, val, prev):
-	return
-
-def onExportChange(par, val, prev):
-	return
-
-def onEnableChange(par, val, prev):
-	return
-
-def onModeChange(par, val, prev):
-	return
-	
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec45f0d1539fee8f828a74e7055d707e69e68122af3bea3a12907afd4632dd6
+size 440

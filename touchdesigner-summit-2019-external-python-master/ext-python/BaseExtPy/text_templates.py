@@ -1,8 +1,3 @@
-import pathlib 
-
-req_file            = tdu.expandPath(ipar.ExtPython.Pyreqs)
-install_target      = tdu.expandPath(ipar.ExtPython.Target)
-install_script_path = pathlib.Path(install_target).parents[0]
-
-
-win_file            = install_script_path /'dep_install.cmd'
+version https://git-lfs.github.com/spec/v1
+oid sha256:5acc6f84b9ca3015b105ccb28d7161e665e78c7cb33c6ac13fe1379ceb5e7f5b
+size 843

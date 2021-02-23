@@ -1,1 +1,3 @@
-svgwrite
+version https://git-lfs.github.com/spec/v1
+oid sha256:21e7ced92462f56aec1819ed90d8660d29def8784eacb77d0341b6e14656f0d8
+size 8

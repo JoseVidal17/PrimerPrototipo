@@ -1,2 +1,3 @@
-pyowm
-pkg_resources
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc2bfd46eaec1b97c65542972ebb29ef6add35822a4c56aef30eaabe9e1506a
+size 19
